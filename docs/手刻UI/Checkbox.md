@@ -9,7 +9,7 @@ slug: checkbox
 
 | 參數     | 說明       | 類型或值  | 預設值 |
 | -------- | ---------- | --------- | ------ |
-| children | 單選框標籤 | ReactNode | 無     |
+| children | 多選框標籤 | ReactNode | 無     |
 
 其他參數繼承自 `html` 原生的 `<input>`
 
