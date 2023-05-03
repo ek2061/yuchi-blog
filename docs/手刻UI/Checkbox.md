@@ -62,6 +62,6 @@ const CheckSVG: React.FC<{ checked?: boolean }> = ({ checked = true }) => {
 };
 ```
 
-## 程式碼
+## 原始碼連結
 
 [github](https://github.com/ek2061/yuchi-ui/tree/main/src/components/Checkbox)

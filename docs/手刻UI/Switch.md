@@ -68,3 +68,7 @@ export const SwitchBase = styled.span<{ checked: boolean }>`
       cubic-bezier(0.4, 0, 0.2, 1) 0ms;
 `;
 ```
+
+## 原始碼連結
+
+[github](https://github.com/ek2061/yuchi-ui/tree/main/src/components/Switch)
