@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-slug: data-type
 ---
 
 # 資料型別與內存空間
